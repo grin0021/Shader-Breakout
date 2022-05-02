@@ -1,2 +1,2 @@
 # Shader-Breakout
-- This document will be updated
+- This readme will be updated
